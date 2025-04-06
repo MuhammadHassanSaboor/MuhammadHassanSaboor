@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Saboor</h1>
 <h3 align="center">A passionate Data Analyst and Machine Learning & Deep Learning Enthusiast.</h3>
 
+<h3 align="left">🔬 I work on a variety of data-driven projects, ranging from Exploratory Data Analysis (EDA) to building intelligent ML/DL models for real-world applications.</h3>
+<h3 align="left">📊 My interests include Time Series Forecasting, Computer Vision, Natural Language Processing, and Geospatial Analysis.</h3>
+<h3 align="left">🧠 I'm currently diving deep into Generative AI, exploring the power of large language models and creative AI systems.</h3>
+<h3 align="left">📈 I love turning data into insights, models into applications, and ideas into reality.</h3>
+<h3 align="left">🚀 Always learning. Always building.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhassansaboor&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhassansaboor" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadhassansaboor" alt="muhammadhassansaboor" /></a> </p>
