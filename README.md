@@ -1,5 +1,5 @@
 <!-- ==================== ANIMATED HEADER ==================== -->
-<img width="100%" src="./assets/banner.svg" alt="Muhammad Hassan Saboor" />
+<img width="100%" src="banner.svg" alt="Muhammad Hassan Saboor" />
 
 <!-- ==================== ANIMATED TYPING ==================== -->
 <p align="center">
