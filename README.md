@@ -108,24 +108,6 @@ through to trained models running inside real applications.
   <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadhassansaboor&theme=github_dark&utcOffset=5" alt="productive time" />
 </p>
 
-<!-- ==================== ANIMATED CONTRIBUTION SNAKE ==================== -->
-<h2 align="center">Contribution Graph</h2>
-
-<!-- This image stays broken until the "Generate Snake Animation" workflow
-     has run once. See the setup steps in the chat. -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/muhammadhassansaboor/muhammadhassansaboor/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/muhammadhassansaboor/muhammadhassansaboor/output/snake.svg" />
-    <img width="95%" alt="contribution snake animation"
-         src="https://raw.githubusercontent.com/muhammadhassansaboor/muhammadhassansaboor/output/snake.svg" />
-  </picture>
-</p>
-
-<br/>
-
 <!-- ==================== CONNECT ==================== -->
 <h2 align="center">Connect With Me</h2>
 
