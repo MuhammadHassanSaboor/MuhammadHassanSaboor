@@ -1,5 +1,5 @@
 <!-- ==================== ANIMATED HEADER ==================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Muhammad%20Hassan%20Saboor&fontSize=40&fontColor=ffffff&fontAlignY=32&desc=Data%20Analyst%20%C2%B7%20Machine%20Learning%20%26%20Deep%20Learning%20Engineer&descAlignY=52&descSize=16&animation=fadeIn" />
+<img width="100%" src="./assets/banner.svg" alt="Muhammad Hassan Saboor" />
 
 <!-- ==================== ANIMATED TYPING ==================== -->
 <p align="center">
@@ -111,8 +111,17 @@ through to trained models running inside real applications.
 <!-- ==================== ANIMATED CONTRIBUTION SNAKE ==================== -->
 <h2 align="center">Contribution Graph</h2>
 
+<!-- This image stays broken until the "Generate Snake Animation" workflow
+     has run once. See the setup steps in the chat. -->
 <p align="center">
-  <img width="95%" src="https://raw.githubusercontent.com/muhammadhassansaboor/muhammadhassansaboor/output/snake.svg" alt="contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/muhammadhassansaboor/muhammadhassansaboor/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/muhammadhassansaboor/muhammadhassansaboor/output/snake.svg" />
+    <img width="95%" alt="contribution snake animation"
+         src="https://raw.githubusercontent.com/muhammadhassansaboor/muhammadhassansaboor/output/snake.svg" />
+  </picture>
 </p>
 
 <br/>
@@ -135,4 +144,4 @@ through to trained models running inside real applications.
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
+<p align="center"><sub>Thanks for visiting &mdash; feel free to explore the repositories below.</sub></p>
